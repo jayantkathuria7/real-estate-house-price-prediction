@@ -1,6 +1,6 @@
 pandas
 streamlit
-sklearn
+scikit-learn
 json
 numpy
 seaborn
