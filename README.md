@@ -22,18 +22,18 @@ Predicting house prices is crucial for both buyers and sellers in the real estat
 git clone https://github.com/your-username/Real-Estate-Price-Prediction.git
 ```
 
-2. **Install dependencies:** Refer to `requirements.txt` for the specific Python libraries needed (e.g., NumPy, Pandas, scikit-learn, Flask).
+2. **Install dependencies:** Refer to `requirements.txt` for the specific Python libraries needed (e.g., NumPy, Pandas, scikit-learn, streamlit).
 
 3. **Explore the data:** The Bangalore house price dataset is located in the `data` folder.
 
-4. **Run the Jupyter Notebooks:** The `notebooks` folder contains Jupyter Notebooks for data exploration, preprocessing, model training and evaluation, and potentially visualizing the results.
+4. **Run the Jupyter Notebooks:** Run the Jupyter Notebooks for data exploration, preprocessing, model training and evaluation, and potentially visualizing the results.
 
 5. **Run the web application:** 
 
    a. Navigate to the `app` folder.
-   b. Ensure you have Flask installed (`pip install Flask`).
-   c. Run the application using `python app.py`.
-   d. Access the application in your web browser at http://127.0.0.1:5000/ (or your local machine's IP address).
+   b. Ensure you have streamlit installed (`pip install streamlit`).
+   c. Run the application using `streamlit run app.py`.
+   d. Access the application in your web browser at provided address in the terminal.
 
 **Project Structure:**
 
